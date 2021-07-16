@@ -1,3 +1,6 @@
+// TODO: Provide an implementation using MongoDB
+// TODO: Provide an implementation using a SQL DB (MySQL or PostgreSQL)
+
 let users = [];
 
 const USER_NOT_FOUND = -1;
