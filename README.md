@@ -1,6 +1,6 @@
 # StandApp
 
-Back-end for the Realt-Time chat application called `StandApp` developed with the `MERN` stack.
+Backend for the realt-time chat application called `StandApp` developed with the `MERN` stack.
 
 ## Stack
 
