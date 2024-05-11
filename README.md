@@ -1,6 +1,6 @@
 # StandApp
 
-Backend for the realt-time chat application called `StandApp` developed with the `MERN` stack.
+The backend for the real-time chat application called `StandApp` developed with the `MERN` stack.
 
 ## Stack
 
@@ -19,4 +19,3 @@ Backend for the realt-time chat application called `StandApp` developed with the
 ## ToDo
 
 - Introduce MongoDB for users and messages
-- Introduce SQL BD (MySQL or PostgreSQL) for users and messages
